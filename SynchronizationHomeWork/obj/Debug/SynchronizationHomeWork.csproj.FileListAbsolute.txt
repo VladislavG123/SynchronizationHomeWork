@@ -1,0 +1,7 @@
+C:\Users\гороховв.CORP\source\repos\SynchronizationHomeWork\SynchronizationHomeWork\bin\Debug\SynchronizationHomeWork.exe.config
+C:\Users\гороховв.CORP\source\repos\SynchronizationHomeWork\SynchronizationHomeWork\bin\Debug\SynchronizationHomeWork.exe
+C:\Users\гороховв.CORP\source\repos\SynchronizationHomeWork\SynchronizationHomeWork\bin\Debug\SynchronizationHomeWork.pdb
+C:\Users\гороховв.CORP\source\repos\SynchronizationHomeWork\SynchronizationHomeWork\obj\Debug\SynchronizationHomeWork.csprojAssemblyReference.cache
+C:\Users\гороховв.CORP\source\repos\SynchronizationHomeWork\SynchronizationHomeWork\obj\Debug\SynchronizationHomeWork.csproj.CoreCompileInputs.cache
+C:\Users\гороховв.CORP\source\repos\SynchronizationHomeWork\SynchronizationHomeWork\obj\Debug\SynchronizationHomeWork.exe
+C:\Users\гороховв.CORP\source\repos\SynchronizationHomeWork\SynchronizationHomeWork\obj\Debug\SynchronizationHomeWork.pdb
